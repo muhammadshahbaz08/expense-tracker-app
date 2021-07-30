@@ -1,5 +1,5 @@
 
-export default function AccountSummary() {
+export const AccountSummary = () => {
   return (
     <div className="inc-exp-container">
       <div className="money plus">

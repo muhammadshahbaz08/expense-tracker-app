@@ -1,5 +1,5 @@
 
-export default function TransactionHistory() {
+export const  TransactionHistory = () => {
   return (
     <div>
       <h3>Transaction History</h3>
